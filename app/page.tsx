@@ -47,7 +47,7 @@ export default function HomePage() {
       <div className="max-w-md mx-auto p-6">
         {/* Header */}
         <div className="text-center mb-8">
-          <h1 className="text-lg font-medium mb-2">Welcome to Our Platform</h1>
+          <h1 className="text-lg font-medium mb-2">Welcome to Our Platform ...</h1>
           <div className="flex gap-4 text-sm text-muted-foreground mb-6">
             <Link href="/" className="underline">
               Home
